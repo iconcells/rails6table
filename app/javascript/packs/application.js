@@ -7,7 +7,7 @@ require("@rails/ujs").start()
 require("turbolinks").start()
 require("@rails/activestorage").start()
 require("channels")
-require('bootstrap/dist/js/bootstrap.bundle.min') // importando bootstrap bundle direto
+//require('bootstrap/dist/js/bootstrap.bundle.min') // importando bootstrap bundle direto
 require('datatables.net-bs4')                     // importanto data-tables
 require('bootstrap-growl-ifightcrime')            // importanto bootstrap-growl-notifications
 
